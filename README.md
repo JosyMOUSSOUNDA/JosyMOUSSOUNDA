@@ -47,6 +47,18 @@ Secure Cloud Infrastructure – secure architecture design and monitoring
 
 Security Policy (PSSI) – information security governance project
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosyMOUSSOUNDA&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosyMOUSSOUNDA&layout=compact&theme=dark)
+
+## Cybersecurity Focus
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC-Monitoring-green?style=for-the-badge)
+![Pentesting](https://img.shields.io/badge/Pentesting-red?style=for-the-badge)
+
 ## Current Goal
 
 Looking for:
