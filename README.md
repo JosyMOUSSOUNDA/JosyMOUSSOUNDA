@@ -1,6 +1,6 @@
 # Hi, I'm Josy Marian Moussounda
 
-Cybersecurity student specializing in network security, penetration testing and infrastructure protection.
+Cybersecurity & Network Administrator student specializing in network security, penetration testing and infrastructure protection.
 
 I am currently developing practical cybersecurity skills through labs and real-world simulations.
 
