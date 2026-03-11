@@ -59,6 +59,15 @@ Security Policy (PSSI) – information security governance project
 ![SOC](https://img.shields.io/badge/SOC-Monitoring-green?style=for-the-badge)
 ![Pentesting](https://img.shields.io/badge/Pentesting-red?style=for-the-badge)
 
+## Lab Environment
+
+Kali Linux  
+VirtualBox  
+Debian Linux  
+Windows Active Directory  
+Cisco Packet Tracer  
+pfSense Firewall
+
 ## Current Goal
 
 Looking for:
