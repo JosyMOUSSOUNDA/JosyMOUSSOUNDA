@@ -1,4 +1,4 @@
-# Hi, I'm Josy Marian Moussounda
+# Hi, I'm Josy Marian F MOUSSOUNDA
 
 Cybersecurity & Network Administrator student specializing in network security, penetration testing and infrastructure protection.
 
