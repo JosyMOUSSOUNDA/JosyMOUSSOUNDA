@@ -14,22 +14,16 @@ Vulnerability Assessment
 
 ## Technologies & Tools
 
-Linux
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
-Python 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-Cisco Networking
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
 
-Metasploit 
 ![Metasploit](https://img.shields.io/badge/Metasploit-red?style=for-the-badge)
 
-Suricata 
 ![Suricata](https://img.shields.io/badge/Suricata-IDS-orange?style=for-the-badge)
 
-Zabbix  
 ![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-red?style=for-the-badge)
 
 pfSense  
